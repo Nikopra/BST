@@ -1,227 +1,227 @@
-Sat Dec 10 11:25:17 2022: build-wrapper, version 6.40 (linux-x86)
-Sat Dec 10 11:25:17 2022: System name: Linux Nodename: kali Release: 6.0.0-kali3-amd64 Version: #1 SMP PREEMPT_DYNAMIC Debian 6.0.7-1kali1 (2022-11-07) Machine: x86_64
-Sat Dec 10 11:25:17 2022: socket path: /tmp/build-wrapper-socket.SUjr3J
-Sat Dec 10 11:25:17 2022: dynamic library found: /home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-i686.so
-Sat Dec 10 11:25:17 2022: dynamic library found: /home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-x86_64.so
-Sat Dec 10 11:25:17 2022: dynamic library found: /home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-haswell.so
-Sat Dec 10 11:25:17 2022: cwd: </home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:17 2022: command executed as: <build-wrapper-linux-x86-64 --out-dir bw-output>
-Sat Dec 10 11:25:17 2022: out-dir absolute path: </home/kali/Desktop/SES/sonarCloud/BST/bw-output>
-Sat Dec 10 11:25:17 2022: command line received: <gcc -o BST.exe BST.c>
-Sat Dec 10 11:25:17 2022: env 0: <COLORTERM=truecolor>
-Sat Dec 10 11:25:17 2022: env 1: <DISPLAY=:0.0>
-Sat Dec 10 11:25:17 2022: env 2: <LANG=en_US.UTF-8>
-Sat Dec 10 11:25:17 2022: env 3: <LANGUAGE=>
-Sat Dec 10 11:25:17 2022: env 4: <PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/kali/Documents/applications/sonar-scanner-4.7.0.2747-linux/bin:/home/kali/Documents/applications/build-wrapper-linux-x86>
-Sat Dec 10 11:25:17 2022: env 5: <TERM=xterm-256color>
-Sat Dec 10 11:25:17 2022: env 6: <XAUTHORITY=/home/kali/.Xauthority>
-Sat Dec 10 11:25:17 2022: env 7: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90::ow=30;44:>
-Sat Dec 10 11:25:17 2022: env 8: <SHELL=/usr/bin/zsh>
-Sat Dec 10 11:25:17 2022: env 9: <LOGNAME=root>
-Sat Dec 10 11:25:17 2022: env 10: <USER=root>
-Sat Dec 10 11:25:17 2022: env 11: <MAIL=/var/mail/root>
-Sat Dec 10 11:25:17 2022: env 12: <HOME=/root>
-Sat Dec 10 11:25:17 2022: env 13: <SHELL=/usr/bin/zsh>
-Sat Dec 10 11:25:17 2022: env 14: <SUDO_COMMAND=/usr/bin/zsh>
-Sat Dec 10 11:25:17 2022: env 15: <SUDO_USER=kali>
-Sat Dec 10 11:25:17 2022: env 16: <SUDO_UID=1000>
-Sat Dec 10 11:25:17 2022: env 17: <SUDO_GID=1000>
-Sat Dec 10 11:25:17 2022: env 18: <SHLVL=1>
-Sat Dec 10 11:25:17 2022: env 19: <PWD=/home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:17 2022: env 20: <OLDPWD=/>
-Sat Dec 10 11:25:17 2022: env 21: <LESS_TERMCAP_mb=[1;31m>
-Sat Dec 10 11:25:17 2022: env 22: <LESS_TERMCAP_md=[1;36m>
-Sat Dec 10 11:25:17 2022: env 23: <LESS_TERMCAP_me=[0m>
-Sat Dec 10 11:25:17 2022: env 24: <LESS_TERMCAP_so=[01;33m>
-Sat Dec 10 11:25:17 2022: env 25: <LESS_TERMCAP_se=[0m>
-Sat Dec 10 11:25:17 2022: env 26: <LESS_TERMCAP_us=[1;32m>
-Sat Dec 10 11:25:17 2022: env 27: <LESS_TERMCAP_ue=[0m>
-Sat Dec 10 11:25:17 2022: env 28: <_=/home/kali/Documents/applications/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
-Sat Dec 10 11:25:17 2022: executing: <gcc -o BST.exe BST.c>
-Sat Dec 10 11:25:17 2022: initializing json file
-Sat Dec 10 11:25:17 2022: process created with pid: 33780
-Sat Dec 10 11:25:17 2022: parent pid: 33779
-Sat Dec 10 11:25:17 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:17 2022: executable: </home/kali/Documents/applications/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
-Sat Dec 10 11:25:17 2022: argv[0]: <build-wrapper-linux-x86-64>
-Sat Dec 10 11:25:17 2022: argv[1]: <-c>
-Sat Dec 10 11:25:17 2022: argv[2]: <>
-Sat Dec 10 11:25:17 2022: argv[3]: <gcc>
-Sat Dec 10 11:25:17 2022: argv[4]: <-o>
-Sat Dec 10 11:25:17 2022: argv[5]: <BST.exe>
-Sat Dec 10 11:25:17 2022: argv[6]: <BST.c>
-Sat Dec 10 11:25:17 2022: skipping process with pid: 33780
-Sat Dec 10 11:25:17 2022: process created with pid: 33781
-Sat Dec 10 11:25:17 2022: parent pid: 33780
-Sat Dec 10 11:25:17 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:17 2022: executable: </usr/bin/x86_64-linux-gnu-gcc-12>
-Sat Dec 10 11:25:17 2022: argv[0]: <gcc>
-Sat Dec 10 11:25:17 2022: argv[1]: <-o>
-Sat Dec 10 11:25:17 2022: argv[2]: <BST.exe>
-Sat Dec 10 11:25:17 2022: argv[3]: <BST.c>
-Sat Dec 10 11:25:17 2022: envp[0]: <SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.SUjr3J>
-Sat Dec 10 11:25:17 2022: envp[1]: <SQ_WRAPPER_LIBRARY=/home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-${PLATFORM}.so>
-Sat Dec 10 11:25:17 2022: envp[2]: <COLORTERM=truecolor>
-Sat Dec 10 11:25:17 2022: envp[3]: <DISPLAY=:0.0>
-Sat Dec 10 11:25:17 2022: envp[4]: <LANG=en_US.UTF-8>
-Sat Dec 10 11:25:17 2022: envp[5]: <LANGUAGE=>
-Sat Dec 10 11:25:17 2022: envp[6]: <PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/kali/Documents/applications/sonar-scanner-4.7.0.2747-linux/bin:/home/kali/Documents/applications/build-wrapper-linux-x86>
-Sat Dec 10 11:25:17 2022: envp[7]: <TERM=xterm-256color>
-Sat Dec 10 11:25:17 2022: envp[8]: <XAUTHORITY=/home/kali/.Xauthority>
-Sat Dec 10 11:25:17 2022: envp[9]: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90::ow=30;44:>
-Sat Dec 10 11:25:17 2022: envp[10]: <SHELL=/usr/bin/zsh>
-Sat Dec 10 11:25:17 2022: envp[11]: <LOGNAME=root>
-Sat Dec 10 11:25:17 2022: envp[12]: <USER=root>
-Sat Dec 10 11:25:17 2022: envp[13]: <MAIL=/var/mail/root>
-Sat Dec 10 11:25:17 2022: envp[14]: <HOME=/root>
-Sat Dec 10 11:25:17 2022: envp[15]: <SHELL=/usr/bin/zsh>
-Sat Dec 10 11:25:17 2022: envp[16]: <SUDO_COMMAND=/usr/bin/zsh>
-Sat Dec 10 11:25:17 2022: envp[17]: <SUDO_USER=kali>
-Sat Dec 10 11:25:17 2022: envp[18]: <SUDO_UID=1000>
-Sat Dec 10 11:25:17 2022: envp[19]: <SUDO_GID=1000>
-Sat Dec 10 11:25:17 2022: envp[20]: <SHLVL=1>
-Sat Dec 10 11:25:17 2022: envp[21]: <PWD=/home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:17 2022: envp[22]: <OLDPWD=/>
-Sat Dec 10 11:25:17 2022: envp[23]: <LESS_TERMCAP_mb=[1;31m>
-Sat Dec 10 11:25:17 2022: envp[24]: <LESS_TERMCAP_md=[1;36m>
-Sat Dec 10 11:25:17 2022: envp[25]: <LESS_TERMCAP_me=[0m>
-Sat Dec 10 11:25:17 2022: envp[26]: <LESS_TERMCAP_so=[01;33m>
-Sat Dec 10 11:25:17 2022: envp[27]: <LESS_TERMCAP_se=[0m>
-Sat Dec 10 11:25:17 2022: envp[28]: <LESS_TERMCAP_us=[1;32m>
-Sat Dec 10 11:25:17 2022: envp[29]: <LESS_TERMCAP_ue=[0m>
-Sat Dec 10 11:25:17 2022: envp[30]: <_=/home/kali/Documents/applications/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
-Sat Dec 10 11:25:17 2022: envp[31]: <LD_PRELOAD=>
-Sat Dec 10 11:25:17 2022: process created with pid: 33782
-Sat Dec 10 11:25:17 2022: parent pid: 33781
-Sat Dec 10 11:25:17 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:17 2022: executable: </usr/lib/gcc/x86_64-linux-gnu/12/cc1>
-Sat Dec 10 11:25:17 2022: argv[0]: </usr/lib/gcc/x86_64-linux-gnu/12/cc1>
-Sat Dec 10 11:25:17 2022: argv[1]: <-quiet>
-Sat Dec 10 11:25:17 2022: argv[2]: <-imultiarch>
-Sat Dec 10 11:25:17 2022: argv[3]: <x86_64-linux-gnu>
-Sat Dec 10 11:25:17 2022: argv[4]: <BST.c>
-Sat Dec 10 11:25:17 2022: argv[5]: <-quiet>
-Sat Dec 10 11:25:17 2022: argv[6]: <-dumpbase>
-Sat Dec 10 11:25:17 2022: argv[7]: <BST.c>
-Sat Dec 10 11:25:17 2022: argv[8]: <-dumpbase-ext>
-Sat Dec 10 11:25:17 2022: argv[9]: <.c>
-Sat Dec 10 11:25:17 2022: argv[10]: <-mtune=generic>
-Sat Dec 10 11:25:17 2022: argv[11]: <-march=x86-64>
-Sat Dec 10 11:25:17 2022: argv[12]: <-fasynchronous-unwind-tables>
-Sat Dec 10 11:25:17 2022: argv[13]: <-o>
-Sat Dec 10 11:25:17 2022: argv[14]: </tmp/ccxgjJlM.s>
-Sat Dec 10 11:25:17 2022: skipping process with pid: 33782
-Sat Dec 10 11:25:18 2022: process created with pid: 33783
-Sat Dec 10 11:25:18 2022: parent pid: 33781
-Sat Dec 10 11:25:18 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:18 2022: executable: </usr/bin/x86_64-linux-gnu-as>
-Sat Dec 10 11:25:18 2022: argv[0]: <as>
-Sat Dec 10 11:25:18 2022: argv[1]: <--64>
-Sat Dec 10 11:25:18 2022: argv[2]: <-o>
-Sat Dec 10 11:25:18 2022: argv[3]: </tmp/ccKW2Dmr.o>
-Sat Dec 10 11:25:18 2022: argv[4]: </tmp/ccxgjJlM.s>
-Sat Dec 10 11:25:18 2022: skipping process with pid: 33783
-Sat Dec 10 11:25:18 2022: process created with pid: 33784
-Sat Dec 10 11:25:18 2022: parent pid: 33781
-Sat Dec 10 11:25:18 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:18 2022: executable: </usr/lib/gcc/x86_64-linux-gnu/12/collect2>
-Sat Dec 10 11:25:18 2022: argv[0]: </usr/lib/gcc/x86_64-linux-gnu/12/collect2>
-Sat Dec 10 11:25:18 2022: argv[1]: <-plugin>
-Sat Dec 10 11:25:18 2022: argv[2]: </usr/lib/gcc/x86_64-linux-gnu/12/liblto_plugin.so>
-Sat Dec 10 11:25:18 2022: argv[3]: <-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/12/lto-wrapper>
-Sat Dec 10 11:25:18 2022: argv[4]: <-plugin-opt=-fresolution=/tmp/cc2Ap2xA.res>
-Sat Dec 10 11:25:18 2022: argv[5]: <-plugin-opt=-pass-through=-lgcc>
-Sat Dec 10 11:25:18 2022: argv[6]: <-plugin-opt=-pass-through=-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[7]: <-plugin-opt=-pass-through=-lc>
-Sat Dec 10 11:25:18 2022: argv[8]: <-plugin-opt=-pass-through=-lgcc>
-Sat Dec 10 11:25:18 2022: argv[9]: <-plugin-opt=-pass-through=-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[10]: <--build-id>
-Sat Dec 10 11:25:18 2022: argv[11]: <--eh-frame-hdr>
-Sat Dec 10 11:25:18 2022: argv[12]: <-m>
-Sat Dec 10 11:25:18 2022: argv[13]: <elf_x86_64>
-Sat Dec 10 11:25:18 2022: argv[14]: <--hash-style=gnu>
-Sat Dec 10 11:25:18 2022: argv[15]: <--as-needed>
-Sat Dec 10 11:25:18 2022: argv[16]: <-dynamic-linker>
-Sat Dec 10 11:25:18 2022: argv[17]: </lib64/ld-linux-x86-64.so.2>
-Sat Dec 10 11:25:18 2022: argv[18]: <-pie>
-Sat Dec 10 11:25:18 2022: argv[19]: <-o>
-Sat Dec 10 11:25:18 2022: argv[20]: <BST.exe>
-Sat Dec 10 11:25:18 2022: argv[21]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/Scrt1.o>
-Sat Dec 10 11:25:18 2022: argv[22]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crti.o>
-Sat Dec 10 11:25:18 2022: argv[23]: </usr/lib/gcc/x86_64-linux-gnu/12/crtbeginS.o>
-Sat Dec 10 11:25:18 2022: argv[24]: <-L/usr/lib/gcc/x86_64-linux-gnu/12>
-Sat Dec 10 11:25:18 2022: argv[25]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu>
-Sat Dec 10 11:25:18 2022: argv[26]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../../lib>
-Sat Dec 10 11:25:18 2022: argv[27]: <-L/lib/x86_64-linux-gnu>
-Sat Dec 10 11:25:18 2022: argv[28]: <-L/lib/../lib>
-Sat Dec 10 11:25:18 2022: argv[29]: <-L/usr/lib/x86_64-linux-gnu>
-Sat Dec 10 11:25:18 2022: argv[30]: <-L/usr/lib/../lib>
-Sat Dec 10 11:25:18 2022: argv[31]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../..>
-Sat Dec 10 11:25:18 2022: argv[32]: </tmp/ccKW2Dmr.o>
-Sat Dec 10 11:25:18 2022: argv[33]: <-lgcc>
-Sat Dec 10 11:25:18 2022: argv[34]: <--push-state>
-Sat Dec 10 11:25:18 2022: argv[35]: <--as-needed>
-Sat Dec 10 11:25:18 2022: argv[36]: <-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[37]: <--pop-state>
-Sat Dec 10 11:25:18 2022: argv[38]: <-lc>
-Sat Dec 10 11:25:18 2022: argv[39]: <-lgcc>
-Sat Dec 10 11:25:18 2022: argv[40]: <--push-state>
-Sat Dec 10 11:25:18 2022: argv[41]: <--as-needed>
-Sat Dec 10 11:25:18 2022: argv[42]: <-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[43]: <--pop-state>
-Sat Dec 10 11:25:18 2022: argv[44]: </usr/lib/gcc/x86_64-linux-gnu/12/crtendS.o>
-Sat Dec 10 11:25:18 2022: argv[45]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crtn.o>
-Sat Dec 10 11:25:18 2022: skipping process with pid: 33784
-Sat Dec 10 11:25:18 2022: process created with pid: 33785
-Sat Dec 10 11:25:18 2022: parent pid: 33784
-Sat Dec 10 11:25:18 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
-Sat Dec 10 11:25:18 2022: executable: </usr/bin/x86_64-linux-gnu-ld.bfd>
-Sat Dec 10 11:25:18 2022: argv[0]: </usr/bin/ld>
-Sat Dec 10 11:25:18 2022: argv[1]: <-plugin>
-Sat Dec 10 11:25:18 2022: argv[2]: </usr/lib/gcc/x86_64-linux-gnu/12/liblto_plugin.so>
-Sat Dec 10 11:25:18 2022: argv[3]: <-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/12/lto-wrapper>
-Sat Dec 10 11:25:18 2022: argv[4]: <-plugin-opt=-fresolution=/tmp/cc2Ap2xA.res>
-Sat Dec 10 11:25:18 2022: argv[5]: <-plugin-opt=-pass-through=-lgcc>
-Sat Dec 10 11:25:18 2022: argv[6]: <-plugin-opt=-pass-through=-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[7]: <-plugin-opt=-pass-through=-lc>
-Sat Dec 10 11:25:18 2022: argv[8]: <-plugin-opt=-pass-through=-lgcc>
-Sat Dec 10 11:25:18 2022: argv[9]: <-plugin-opt=-pass-through=-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[10]: <--build-id>
-Sat Dec 10 11:25:18 2022: argv[11]: <--eh-frame-hdr>
-Sat Dec 10 11:25:18 2022: argv[12]: <-m>
-Sat Dec 10 11:25:18 2022: argv[13]: <elf_x86_64>
-Sat Dec 10 11:25:18 2022: argv[14]: <--hash-style=gnu>
-Sat Dec 10 11:25:18 2022: argv[15]: <--as-needed>
-Sat Dec 10 11:25:18 2022: argv[16]: <-dynamic-linker>
-Sat Dec 10 11:25:18 2022: argv[17]: </lib64/ld-linux-x86-64.so.2>
-Sat Dec 10 11:25:18 2022: argv[18]: <-pie>
-Sat Dec 10 11:25:18 2022: argv[19]: <-o>
-Sat Dec 10 11:25:18 2022: argv[20]: <BST.exe>
-Sat Dec 10 11:25:18 2022: argv[21]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/Scrt1.o>
-Sat Dec 10 11:25:18 2022: argv[22]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crti.o>
-Sat Dec 10 11:25:18 2022: argv[23]: </usr/lib/gcc/x86_64-linux-gnu/12/crtbeginS.o>
-Sat Dec 10 11:25:18 2022: argv[24]: <-L/usr/lib/gcc/x86_64-linux-gnu/12>
-Sat Dec 10 11:25:18 2022: argv[25]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu>
-Sat Dec 10 11:25:18 2022: argv[26]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../../lib>
-Sat Dec 10 11:25:18 2022: argv[27]: <-L/lib/x86_64-linux-gnu>
-Sat Dec 10 11:25:18 2022: argv[28]: <-L/lib/../lib>
-Sat Dec 10 11:25:18 2022: argv[29]: <-L/usr/lib/x86_64-linux-gnu>
-Sat Dec 10 11:25:18 2022: argv[30]: <-L/usr/lib/../lib>
-Sat Dec 10 11:25:18 2022: argv[31]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../..>
-Sat Dec 10 11:25:18 2022: argv[32]: </tmp/ccKW2Dmr.o>
-Sat Dec 10 11:25:18 2022: argv[33]: <-lgcc>
-Sat Dec 10 11:25:18 2022: argv[34]: <--push-state>
-Sat Dec 10 11:25:18 2022: argv[35]: <--as-needed>
-Sat Dec 10 11:25:18 2022: argv[36]: <-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[37]: <--pop-state>
-Sat Dec 10 11:25:18 2022: argv[38]: <-lc>
-Sat Dec 10 11:25:18 2022: argv[39]: <-lgcc>
-Sat Dec 10 11:25:18 2022: argv[40]: <--push-state>
-Sat Dec 10 11:25:18 2022: argv[41]: <--as-needed>
-Sat Dec 10 11:25:18 2022: argv[42]: <-lgcc_s>
-Sat Dec 10 11:25:18 2022: argv[43]: <--pop-state>
-Sat Dec 10 11:25:18 2022: argv[44]: </usr/lib/gcc/x86_64-linux-gnu/12/crtendS.o>
-Sat Dec 10 11:25:18 2022: argv[45]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crtn.o>
-Sat Dec 10 11:25:18 2022: skipping process with pid: 33785
-Sat Dec 10 11:25:18 2022: finalizing json file
-Sat Dec 10 11:25:18 2022: returned with code: 0
+Sat Dec 10 11:55:34 2022: build-wrapper, version 6.40 (linux-x86)
+Sat Dec 10 11:55:34 2022: System name: Linux Nodename: kali Release: 6.0.0-kali3-amd64 Version: #1 SMP PREEMPT_DYNAMIC Debian 6.0.7-1kali1 (2022-11-07) Machine: x86_64
+Sat Dec 10 11:55:34 2022: socket path: /tmp/build-wrapper-socket.fj3swP
+Sat Dec 10 11:55:34 2022: dynamic library found: /home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-i686.so
+Sat Dec 10 11:55:34 2022: dynamic library found: /home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-x86_64.so
+Sat Dec 10 11:55:34 2022: dynamic library found: /home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-haswell.so
+Sat Dec 10 11:55:34 2022: cwd: </home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: command executed as: <build-wrapper-linux-x86-64 --out-dir bw-output>
+Sat Dec 10 11:55:34 2022: out-dir absolute path: </home/kali/Desktop/SES/sonarCloud/BST/bw-output>
+Sat Dec 10 11:55:34 2022: command line received: <gcc -o BST.exe BST.c>
+Sat Dec 10 11:55:34 2022: env 0: <COLORTERM=truecolor>
+Sat Dec 10 11:55:34 2022: env 1: <DISPLAY=:0.0>
+Sat Dec 10 11:55:34 2022: env 2: <LANG=en_US.UTF-8>
+Sat Dec 10 11:55:34 2022: env 3: <LANGUAGE=>
+Sat Dec 10 11:55:34 2022: env 4: <PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/kali/Documents/applications/sonar-scanner-4.7.0.2747-linux/bin:/home/kali/Documents/applications/build-wrapper-linux-x86>
+Sat Dec 10 11:55:34 2022: env 5: <TERM=xterm-256color>
+Sat Dec 10 11:55:34 2022: env 6: <XAUTHORITY=/home/kali/.Xauthority>
+Sat Dec 10 11:55:34 2022: env 7: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90::ow=30;44:>
+Sat Dec 10 11:55:34 2022: env 8: <SHELL=/usr/bin/zsh>
+Sat Dec 10 11:55:34 2022: env 9: <LOGNAME=root>
+Sat Dec 10 11:55:34 2022: env 10: <USER=root>
+Sat Dec 10 11:55:34 2022: env 11: <MAIL=/var/mail/root>
+Sat Dec 10 11:55:34 2022: env 12: <HOME=/root>
+Sat Dec 10 11:55:34 2022: env 13: <SHELL=/usr/bin/zsh>
+Sat Dec 10 11:55:34 2022: env 14: <SUDO_COMMAND=/usr/bin/zsh>
+Sat Dec 10 11:55:34 2022: env 15: <SUDO_USER=kali>
+Sat Dec 10 11:55:34 2022: env 16: <SUDO_UID=1000>
+Sat Dec 10 11:55:34 2022: env 17: <SUDO_GID=1000>
+Sat Dec 10 11:55:34 2022: env 18: <SHLVL=1>
+Sat Dec 10 11:55:34 2022: env 19: <PWD=/home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: env 20: <OLDPWD=/>
+Sat Dec 10 11:55:34 2022: env 21: <LESS_TERMCAP_mb=[1;31m>
+Sat Dec 10 11:55:34 2022: env 22: <LESS_TERMCAP_md=[1;36m>
+Sat Dec 10 11:55:34 2022: env 23: <LESS_TERMCAP_me=[0m>
+Sat Dec 10 11:55:34 2022: env 24: <LESS_TERMCAP_so=[01;33m>
+Sat Dec 10 11:55:34 2022: env 25: <LESS_TERMCAP_se=[0m>
+Sat Dec 10 11:55:34 2022: env 26: <LESS_TERMCAP_us=[1;32m>
+Sat Dec 10 11:55:34 2022: env 27: <LESS_TERMCAP_ue=[0m>
+Sat Dec 10 11:55:34 2022: env 28: <_=/home/kali/Documents/applications/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Sat Dec 10 11:55:34 2022: executing: <gcc -o BST.exe BST.c>
+Sat Dec 10 11:55:34 2022: initializing json file
+Sat Dec 10 11:55:34 2022: process created with pid: 42488
+Sat Dec 10 11:55:34 2022: parent pid: 42487
+Sat Dec 10 11:55:34 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: executable: </home/kali/Documents/applications/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Sat Dec 10 11:55:34 2022: argv[0]: <build-wrapper-linux-x86-64>
+Sat Dec 10 11:55:34 2022: argv[1]: <-c>
+Sat Dec 10 11:55:34 2022: argv[2]: <>
+Sat Dec 10 11:55:34 2022: argv[3]: <gcc>
+Sat Dec 10 11:55:34 2022: argv[4]: <-o>
+Sat Dec 10 11:55:34 2022: argv[5]: <BST.exe>
+Sat Dec 10 11:55:34 2022: argv[6]: <BST.c>
+Sat Dec 10 11:55:34 2022: skipping process with pid: 42488
+Sat Dec 10 11:55:34 2022: process created with pid: 42489
+Sat Dec 10 11:55:34 2022: parent pid: 42488
+Sat Dec 10 11:55:34 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: executable: </usr/bin/x86_64-linux-gnu-gcc-12>
+Sat Dec 10 11:55:34 2022: argv[0]: <gcc>
+Sat Dec 10 11:55:34 2022: argv[1]: <-o>
+Sat Dec 10 11:55:34 2022: argv[2]: <BST.exe>
+Sat Dec 10 11:55:34 2022: argv[3]: <BST.c>
+Sat Dec 10 11:55:34 2022: envp[0]: <SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.fj3swP>
+Sat Dec 10 11:55:34 2022: envp[1]: <SQ_WRAPPER_LIBRARY=/home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-${PLATFORM}.so>
+Sat Dec 10 11:55:34 2022: envp[2]: <COLORTERM=truecolor>
+Sat Dec 10 11:55:34 2022: envp[3]: <DISPLAY=:0.0>
+Sat Dec 10 11:55:34 2022: envp[4]: <LANG=en_US.UTF-8>
+Sat Dec 10 11:55:34 2022: envp[5]: <LANGUAGE=>
+Sat Dec 10 11:55:34 2022: envp[6]: <PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/kali/Documents/applications/sonar-scanner-4.7.0.2747-linux/bin:/home/kali/Documents/applications/build-wrapper-linux-x86>
+Sat Dec 10 11:55:34 2022: envp[7]: <TERM=xterm-256color>
+Sat Dec 10 11:55:34 2022: envp[8]: <XAUTHORITY=/home/kali/.Xauthority>
+Sat Dec 10 11:55:34 2022: envp[9]: <LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.swp=00;90:*.tmp=00;90:*.dpkg-dist=00;90:*.dpkg-old=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90::ow=30;44:>
+Sat Dec 10 11:55:34 2022: envp[10]: <SHELL=/usr/bin/zsh>
+Sat Dec 10 11:55:34 2022: envp[11]: <LOGNAME=root>
+Sat Dec 10 11:55:34 2022: envp[12]: <USER=root>
+Sat Dec 10 11:55:34 2022: envp[13]: <MAIL=/var/mail/root>
+Sat Dec 10 11:55:34 2022: envp[14]: <HOME=/root>
+Sat Dec 10 11:55:34 2022: envp[15]: <SHELL=/usr/bin/zsh>
+Sat Dec 10 11:55:34 2022: envp[16]: <SUDO_COMMAND=/usr/bin/zsh>
+Sat Dec 10 11:55:34 2022: envp[17]: <SUDO_USER=kali>
+Sat Dec 10 11:55:34 2022: envp[18]: <SUDO_UID=1000>
+Sat Dec 10 11:55:34 2022: envp[19]: <SUDO_GID=1000>
+Sat Dec 10 11:55:34 2022: envp[20]: <SHLVL=1>
+Sat Dec 10 11:55:34 2022: envp[21]: <PWD=/home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: envp[22]: <OLDPWD=/>
+Sat Dec 10 11:55:34 2022: envp[23]: <LESS_TERMCAP_mb=[1;31m>
+Sat Dec 10 11:55:34 2022: envp[24]: <LESS_TERMCAP_md=[1;36m>
+Sat Dec 10 11:55:34 2022: envp[25]: <LESS_TERMCAP_me=[0m>
+Sat Dec 10 11:55:34 2022: envp[26]: <LESS_TERMCAP_so=[01;33m>
+Sat Dec 10 11:55:34 2022: envp[27]: <LESS_TERMCAP_se=[0m>
+Sat Dec 10 11:55:34 2022: envp[28]: <LESS_TERMCAP_us=[1;32m>
+Sat Dec 10 11:55:34 2022: envp[29]: <LESS_TERMCAP_ue=[0m>
+Sat Dec 10 11:55:34 2022: envp[30]: <_=/home/kali/Documents/applications/build-wrapper-linux-x86/build-wrapper-linux-x86-64>
+Sat Dec 10 11:55:34 2022: envp[31]: <LD_PRELOAD=>
+Sat Dec 10 11:55:34 2022: process created with pid: 42490
+Sat Dec 10 11:55:34 2022: parent pid: 42489
+Sat Dec 10 11:55:34 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: executable: </usr/lib/gcc/x86_64-linux-gnu/12/cc1>
+Sat Dec 10 11:55:34 2022: argv[0]: </usr/lib/gcc/x86_64-linux-gnu/12/cc1>
+Sat Dec 10 11:55:34 2022: argv[1]: <-quiet>
+Sat Dec 10 11:55:34 2022: argv[2]: <-imultiarch>
+Sat Dec 10 11:55:34 2022: argv[3]: <x86_64-linux-gnu>
+Sat Dec 10 11:55:34 2022: argv[4]: <BST.c>
+Sat Dec 10 11:55:34 2022: argv[5]: <-quiet>
+Sat Dec 10 11:55:34 2022: argv[6]: <-dumpbase>
+Sat Dec 10 11:55:34 2022: argv[7]: <BST.c>
+Sat Dec 10 11:55:34 2022: argv[8]: <-dumpbase-ext>
+Sat Dec 10 11:55:34 2022: argv[9]: <.c>
+Sat Dec 10 11:55:34 2022: argv[10]: <-mtune=generic>
+Sat Dec 10 11:55:34 2022: argv[11]: <-march=x86-64>
+Sat Dec 10 11:55:34 2022: argv[12]: <-fasynchronous-unwind-tables>
+Sat Dec 10 11:55:34 2022: argv[13]: <-o>
+Sat Dec 10 11:55:34 2022: argv[14]: </tmp/ccYy5ztB.s>
+Sat Dec 10 11:55:34 2022: skipping process with pid: 42490
+Sat Dec 10 11:55:34 2022: process created with pid: 42491
+Sat Dec 10 11:55:34 2022: parent pid: 42489
+Sat Dec 10 11:55:34 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: executable: </usr/bin/x86_64-linux-gnu-as>
+Sat Dec 10 11:55:34 2022: argv[0]: <as>
+Sat Dec 10 11:55:34 2022: argv[1]: <--64>
+Sat Dec 10 11:55:34 2022: argv[2]: <-o>
+Sat Dec 10 11:55:34 2022: argv[3]: </tmp/ccOVVYh0.o>
+Sat Dec 10 11:55:34 2022: argv[4]: </tmp/ccYy5ztB.s>
+Sat Dec 10 11:55:34 2022: skipping process with pid: 42491
+Sat Dec 10 11:55:34 2022: process created with pid: 42492
+Sat Dec 10 11:55:34 2022: parent pid: 42489
+Sat Dec 10 11:55:34 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: executable: </usr/lib/gcc/x86_64-linux-gnu/12/collect2>
+Sat Dec 10 11:55:34 2022: argv[0]: </usr/lib/gcc/x86_64-linux-gnu/12/collect2>
+Sat Dec 10 11:55:34 2022: argv[1]: <-plugin>
+Sat Dec 10 11:55:34 2022: argv[2]: </usr/lib/gcc/x86_64-linux-gnu/12/liblto_plugin.so>
+Sat Dec 10 11:55:34 2022: argv[3]: <-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/12/lto-wrapper>
+Sat Dec 10 11:55:34 2022: argv[4]: <-plugin-opt=-fresolution=/tmp/ccnLHQle.res>
+Sat Dec 10 11:55:34 2022: argv[5]: <-plugin-opt=-pass-through=-lgcc>
+Sat Dec 10 11:55:34 2022: argv[6]: <-plugin-opt=-pass-through=-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[7]: <-plugin-opt=-pass-through=-lc>
+Sat Dec 10 11:55:34 2022: argv[8]: <-plugin-opt=-pass-through=-lgcc>
+Sat Dec 10 11:55:34 2022: argv[9]: <-plugin-opt=-pass-through=-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[10]: <--build-id>
+Sat Dec 10 11:55:34 2022: argv[11]: <--eh-frame-hdr>
+Sat Dec 10 11:55:34 2022: argv[12]: <-m>
+Sat Dec 10 11:55:34 2022: argv[13]: <elf_x86_64>
+Sat Dec 10 11:55:34 2022: argv[14]: <--hash-style=gnu>
+Sat Dec 10 11:55:34 2022: argv[15]: <--as-needed>
+Sat Dec 10 11:55:34 2022: argv[16]: <-dynamic-linker>
+Sat Dec 10 11:55:34 2022: argv[17]: </lib64/ld-linux-x86-64.so.2>
+Sat Dec 10 11:55:34 2022: argv[18]: <-pie>
+Sat Dec 10 11:55:34 2022: argv[19]: <-o>
+Sat Dec 10 11:55:34 2022: argv[20]: <BST.exe>
+Sat Dec 10 11:55:34 2022: argv[21]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/Scrt1.o>
+Sat Dec 10 11:55:34 2022: argv[22]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crti.o>
+Sat Dec 10 11:55:34 2022: argv[23]: </usr/lib/gcc/x86_64-linux-gnu/12/crtbeginS.o>
+Sat Dec 10 11:55:34 2022: argv[24]: <-L/usr/lib/gcc/x86_64-linux-gnu/12>
+Sat Dec 10 11:55:34 2022: argv[25]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu>
+Sat Dec 10 11:55:34 2022: argv[26]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../../lib>
+Sat Dec 10 11:55:34 2022: argv[27]: <-L/lib/x86_64-linux-gnu>
+Sat Dec 10 11:55:34 2022: argv[28]: <-L/lib/../lib>
+Sat Dec 10 11:55:34 2022: argv[29]: <-L/usr/lib/x86_64-linux-gnu>
+Sat Dec 10 11:55:34 2022: argv[30]: <-L/usr/lib/../lib>
+Sat Dec 10 11:55:34 2022: argv[31]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../..>
+Sat Dec 10 11:55:34 2022: argv[32]: </tmp/ccOVVYh0.o>
+Sat Dec 10 11:55:34 2022: argv[33]: <-lgcc>
+Sat Dec 10 11:55:34 2022: argv[34]: <--push-state>
+Sat Dec 10 11:55:34 2022: argv[35]: <--as-needed>
+Sat Dec 10 11:55:34 2022: argv[36]: <-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[37]: <--pop-state>
+Sat Dec 10 11:55:34 2022: argv[38]: <-lc>
+Sat Dec 10 11:55:34 2022: argv[39]: <-lgcc>
+Sat Dec 10 11:55:34 2022: argv[40]: <--push-state>
+Sat Dec 10 11:55:34 2022: argv[41]: <--as-needed>
+Sat Dec 10 11:55:34 2022: argv[42]: <-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[43]: <--pop-state>
+Sat Dec 10 11:55:34 2022: argv[44]: </usr/lib/gcc/x86_64-linux-gnu/12/crtendS.o>
+Sat Dec 10 11:55:34 2022: argv[45]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crtn.o>
+Sat Dec 10 11:55:34 2022: skipping process with pid: 42492
+Sat Dec 10 11:55:34 2022: process created with pid: 42493
+Sat Dec 10 11:55:34 2022: parent pid: 42492
+Sat Dec 10 11:55:34 2022: working directory: </home/kali/Desktop/SES/sonarCloud/BST>
+Sat Dec 10 11:55:34 2022: executable: </usr/bin/x86_64-linux-gnu-ld.bfd>
+Sat Dec 10 11:55:34 2022: argv[0]: </usr/bin/ld>
+Sat Dec 10 11:55:34 2022: argv[1]: <-plugin>
+Sat Dec 10 11:55:34 2022: argv[2]: </usr/lib/gcc/x86_64-linux-gnu/12/liblto_plugin.so>
+Sat Dec 10 11:55:34 2022: argv[3]: <-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/12/lto-wrapper>
+Sat Dec 10 11:55:34 2022: argv[4]: <-plugin-opt=-fresolution=/tmp/ccnLHQle.res>
+Sat Dec 10 11:55:34 2022: argv[5]: <-plugin-opt=-pass-through=-lgcc>
+Sat Dec 10 11:55:34 2022: argv[6]: <-plugin-opt=-pass-through=-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[7]: <-plugin-opt=-pass-through=-lc>
+Sat Dec 10 11:55:34 2022: argv[8]: <-plugin-opt=-pass-through=-lgcc>
+Sat Dec 10 11:55:34 2022: argv[9]: <-plugin-opt=-pass-through=-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[10]: <--build-id>
+Sat Dec 10 11:55:34 2022: argv[11]: <--eh-frame-hdr>
+Sat Dec 10 11:55:34 2022: argv[12]: <-m>
+Sat Dec 10 11:55:34 2022: argv[13]: <elf_x86_64>
+Sat Dec 10 11:55:34 2022: argv[14]: <--hash-style=gnu>
+Sat Dec 10 11:55:34 2022: argv[15]: <--as-needed>
+Sat Dec 10 11:55:34 2022: argv[16]: <-dynamic-linker>
+Sat Dec 10 11:55:34 2022: argv[17]: </lib64/ld-linux-x86-64.so.2>
+Sat Dec 10 11:55:34 2022: argv[18]: <-pie>
+Sat Dec 10 11:55:34 2022: argv[19]: <-o>
+Sat Dec 10 11:55:34 2022: argv[20]: <BST.exe>
+Sat Dec 10 11:55:34 2022: argv[21]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/Scrt1.o>
+Sat Dec 10 11:55:34 2022: argv[22]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crti.o>
+Sat Dec 10 11:55:34 2022: argv[23]: </usr/lib/gcc/x86_64-linux-gnu/12/crtbeginS.o>
+Sat Dec 10 11:55:34 2022: argv[24]: <-L/usr/lib/gcc/x86_64-linux-gnu/12>
+Sat Dec 10 11:55:34 2022: argv[25]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu>
+Sat Dec 10 11:55:34 2022: argv[26]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../../../lib>
+Sat Dec 10 11:55:34 2022: argv[27]: <-L/lib/x86_64-linux-gnu>
+Sat Dec 10 11:55:34 2022: argv[28]: <-L/lib/../lib>
+Sat Dec 10 11:55:34 2022: argv[29]: <-L/usr/lib/x86_64-linux-gnu>
+Sat Dec 10 11:55:34 2022: argv[30]: <-L/usr/lib/../lib>
+Sat Dec 10 11:55:34 2022: argv[31]: <-L/usr/lib/gcc/x86_64-linux-gnu/12/../../..>
+Sat Dec 10 11:55:34 2022: argv[32]: </tmp/ccOVVYh0.o>
+Sat Dec 10 11:55:34 2022: argv[33]: <-lgcc>
+Sat Dec 10 11:55:34 2022: argv[34]: <--push-state>
+Sat Dec 10 11:55:34 2022: argv[35]: <--as-needed>
+Sat Dec 10 11:55:34 2022: argv[36]: <-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[37]: <--pop-state>
+Sat Dec 10 11:55:34 2022: argv[38]: <-lc>
+Sat Dec 10 11:55:34 2022: argv[39]: <-lgcc>
+Sat Dec 10 11:55:34 2022: argv[40]: <--push-state>
+Sat Dec 10 11:55:34 2022: argv[41]: <--as-needed>
+Sat Dec 10 11:55:34 2022: argv[42]: <-lgcc_s>
+Sat Dec 10 11:55:34 2022: argv[43]: <--pop-state>
+Sat Dec 10 11:55:34 2022: argv[44]: </usr/lib/gcc/x86_64-linux-gnu/12/crtendS.o>
+Sat Dec 10 11:55:34 2022: argv[45]: </usr/lib/gcc/x86_64-linux-gnu/12/../../../x86_64-linux-gnu/crtn.o>
+Sat Dec 10 11:55:34 2022: skipping process with pid: 42493
+Sat Dec 10 11:55:34 2022: finalizing json file
+Sat Dec 10 11:55:34 2022: returned with code: 0

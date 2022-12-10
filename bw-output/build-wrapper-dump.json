@@ -1,10 +1,3 @@
-# (C) SonarSource SA, 2014-2022, info@sonarsource.com
-# All SONARSOURCE programs and content are copyright protected.
-# SONARSOURCE and SONARQUBE are trademarks of SonarSource SA. All rights are expressly reserved.
-#
-# This file is designed exclusively for use with the SONARSOURCE C / C++ / Objective-C Plugin.
-# It may not be used in connection with any other software.
-# Any other use is prohibited by law and may be grounds for immediate termination of your License.
 {
 "version":"6.40",
 "captures":[
@@ -18,7 +11,7 @@
 "BST.exe",
 "BST.c"],
 "env":[
-"SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.SUjr3J",
+"SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.fj3swP",
 "SQ_WRAPPER_LIBRARY=/home/kali/Documents/applications/build-wrapper-linux-x86/libinterceptor-${PLATFORM}.so",
 "COLORTERM=truecolor",
 "DISPLAY=:0.0",
